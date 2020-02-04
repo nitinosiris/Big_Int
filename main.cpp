@@ -1,4 +1,4 @@
-#timepass
+#timepass2
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
